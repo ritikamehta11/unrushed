@@ -5,6 +5,7 @@
       "name": "Food",
       "icon": "🍜",
       "description": "Eat with curiosity, not pressure.",
+      "color": "orange",
       "tasks": [
         { "id": "food-1", "text": "Try a dish you’ve never eaten before", "tags": ["action"] },
         { "id": "food-2", "text": "Cook one recipe without watching a video", "tags": ["action"] },
@@ -23,6 +24,7 @@
       "name": "Reading",
       "icon": "📚",
       "description": "Read without pressure or goals.",
+      "color": "indigo",
       "tasks": [
         { "id": "reading-1", "text": "Read ten pages of a genre you usually avoid", "tags": ["easy", "no_spend"] },
         { "id": "reading-2", "text": "Read something short like a poem or article", "tags": ["easy", "no_spend"] },
@@ -41,6 +43,7 @@
       "name": "Exploration",
       "icon": "🗺️",
       "description": "See familiar places differently.",
+      "color": "sky",
       "tasks": [
         { "id": "explore-1", "text": "Visit a place within 5 km you’ve never been to", "tags": ["action", "no_spend"] },
         { "id": "explore-2", "text": "Walk a route you don’t usually take", "tags": ["easy", "action", "no_spend"] },
@@ -59,6 +62,7 @@
       "name": "Creativity",
       "icon": "🎨",
       "description": "Make without judgment.",
+      "color": "violet",
       "tasks": [
         { "id": "create-1", "text": "Make something badly on purpose", "tags": ["easy", "action", "no_spend"] },
         { "id": "create-2", "text": "Doodle for ten minutes", "tags": ["easy", "action", "no_spend"] },
@@ -77,6 +81,7 @@
       "name": "Self",
       "icon": "🌱",
       "description": "Slow down and check in.",
+      "color": "emerald",
       "tasks": [
         { "id": "self-1", "text": "Spend ten minutes alone without your phone", "tags": ["easy", "reflective", "no_spend"] },
         { "id": "self-2", "text": "Write one thing that drained you", "tags": ["easy", "reflective", "no_spend"] },
@@ -95,6 +100,7 @@
       "name": "Movement",
       "icon": "🚶‍♀️",
       "description": "Move gently, without goals.",
+      "color": "green",
       "tasks": [
         { "id": "move-1", "text": "Take a 10–15 minute walk", "tags": ["easy", "action", "no_spend"] },
         { "id": "move-2", "text": "Stretch for five minutes", "tags": ["easy", "action", "no_spend"] },
@@ -113,6 +119,7 @@
       "name": "Digital Detox",
       "icon": "📵",
       "description": "Be a little less online.",
+      "color": "slate",
       "tasks": [
         { "id": "digital-1", "text": "Spend one hour offline", "tags": ["action", "no_spend"] },
         { "id": "digital-2", "text": "No phone during one meal", "tags": ["easy", "no_spend"] },
@@ -131,6 +138,7 @@
       "name": "Home",
       "icon": "🏠",
       "description": "Reset your space softly.",
+      "color": "stone",
       "tasks": [
         { "id": "home-1", "text": "Declutter five items", "tags": ["easy", "action", "no_spend"] },
         { "id": "home-2", "text": "Clean one small area", "tags": ["easy", "action", "no_spend"] },
@@ -149,6 +157,7 @@
       "name": "Learning",
       "icon": "🧠",
       "description": "Learn one small thing.",
+      "color": "blue",
       "tasks": [
         { "id": "learn-1", "text": "Learn a random fact", "tags": ["easy", "no_spend"] },
         { "id": "learn-2", "text": "Learn a new word", "tags": ["easy", "no_spend"] },
@@ -167,6 +176,7 @@
       "name": "Connection",
       "icon": "🤝",
       "description": "Connect intentionally.",
+      "color": "rose",
       "tasks": [
         { "id": "connect-1", "text": "Message someone you haven’t talked to in a while", "tags": ["action"] },
         { "id": "connect-2", "text": "Thank someone sincerely", "tags": ["action", "no_spend"] },
@@ -185,6 +195,7 @@
       "name": "Money",
       "icon": "💰",
       "description": "Spend mindfully.",
+      "color": "amber",
       "tasks": [
         { "id": "money-1", "text": "Avoid non-essential spending for one day", "tags": ["action", "no_spend"] },
         { "id": "money-2", "text": "Track one day of spending", "tags": ["reflective", "no_spend"] },
@@ -203,6 +214,7 @@
       "name": "Joy",
       "icon": "✨",
       "description": "Do what feels light.",
+      "color": "yellow",
       "tasks": [
         { "id": "joy-1", "text": "Do something just for fun", "tags": ["easy", "no_spend"] },
         { "id": "joy-2", "text": "Revisit a childhood favorite", "tags": ["easy"] },
