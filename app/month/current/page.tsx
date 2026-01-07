@@ -43,7 +43,7 @@ export default function CurrentMonthPage() {
   console.log(month)
 
   return (
-    <div className="p-6 mx-auto max-w-2xl space-y-10">
+    <div className="p-6 space-y-10">
       
       {yearThemes.length > 0 ? (
         <div className="mb-4">
@@ -52,7 +52,7 @@ export default function CurrentMonthPage() {
             {yearThemes.join(", ")}
           </p>
           <br /> */}
-          <h1 className="text-2xl font-semibold mb-4">Your Theme for the month</h1>
+          {/* <h1 className="text-2xl font-semibold mb-4">Your Theme for the month</h1> */}
         
          
         

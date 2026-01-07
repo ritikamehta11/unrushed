@@ -5,15 +5,17 @@ import React, { use } from "react";
 export const Header = () => {
   return (
     <header className="w-full border-b border-neutral-200 bg-white flex items-center justify-between">
-      <div className="max-w-2xl  px-6 py-4">
+      <div className="max-w-2xl  px-6 py-4 flex items-center gap-3 align-middle">
+        <img className="w-10 inline-flex" src="/unrushed-lt-zoom-1.png" alt="" />
+        <div>
         <h1 className="text-lg font-medium text-neutral-900">
           Unrushed
         </h1>
         <p className="text-xs text-neutral-500">
           Try one small thing at your own pace
-        </p>
+        </p></div>
       </div>
-      <div className="max-w-2xl px-6 py-4 flex gap-4">
+      <div className="max-w-2xl px-6 py-4 flex gap-4 items-center">
        <button onClick={() => {
                   localStorage.clear();
                   window.location.href = "/";
