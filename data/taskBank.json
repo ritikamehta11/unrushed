@@ -7,18 +7,17 @@
       "description": "Eat with curiosity, not pressure.",
       "color": "orange",
       "tasks": [
-        { "id": "food-1", "text": "Try a dish you’ve never eaten before", "tags": ["action"] },
-        { "id": "food-2", "text": "Cook one recipe without watching a video", "tags": ["action"] },
-        { "id": "food-3", "text": "Use an ingredient you usually avoid", "tags": ["action"] },
-        { "id": "food-4", "text": "Eat one meal without screens", "tags": ["easy", "no_spend"] },
-        { "id": "food-5", "text": "Taste something slowly and notice the flavors", "tags": ["easy", "reflective", "no_spend"] },
-        { "id": "food-6", "text": "Cook using only five ingredients", "tags": ["action", "no_spend"] },
-        { "id": "food-7", "text": "Write down a food memory", "tags": ["easy", "reflective", "no_spend"] },
-        { "id": "food-8", "text": "Eat one meal at a different time than usual", "tags": ["easy", "no_spend"] },
-        { "id": "food-9", "text": "Reflect on how food affects your mood", "tags": ["reflective", "no_spend"] }
+        { "id": "food-1", "text": "Cook a meal using a fruit or vegetable you've never bought before", "tags": ["action"] },
+        { "id": "food-2", "text": "Follow a recipe from a culture entirely different from your own", "tags": ["action"] },
+        { "id": "food-3", "text": "Eat 'Breakfast for Dinner' or 'Dinner for Breakfast'", "tags": ["easy", "no_spend"] },
+        { "id": "food-4", "text": "Identify three distinct spices in a meal while eating", "tags": ["easy", "reflective"] },
+        { "id": "food-5", "text": "Eat one meal in total silence, focusing only on texture", "tags": ["easy", "reflective", "no_spend"] },
+        { "id": "food-6", "text": "Recreate a famous dish from a movie or book", "tags": ["action"] },
+        { "id": "food-7", "text": "Ask a friend for their 'comfort meal' recipe and cook it", "tags": ["action", "connection"] },
+        { "id": "food-8", "text": "Try a 'mystery' snack from an international grocery store", "tags": ["action"] },
+        { "id": "food-9", "text": "Note which meal this month made you feel the most energized", "tags": ["reflective", "no_spend"] }
       ]
     },
-
     {
       "id": "reading",
       "name": "Reading",
@@ -26,18 +25,17 @@
       "description": "Read without pressure or goals.",
       "color": "indigo",
       "tasks": [
-        { "id": "reading-1", "text": "Read ten pages of a genre you usually avoid", "tags": ["easy", "no_spend"] },
-        { "id": "reading-2", "text": "Read something short like a poem or article", "tags": ["easy", "no_spend"] },
-        { "id": "reading-3", "text": "Save one sentence you really liked", "tags": ["easy", "reflective", "no_spend"] },
-        { "id": "reading-4", "text": "Read for fifteen minutes without multitasking", "tags": ["easy", "no_spend"] },
-        { "id": "reading-5", "text": "Re-read something familiar", "tags": ["easy", "no_spend"] },
-        { "id": "reading-6", "text": "Read instead of scrolling once", "tags": ["easy", "no_spend"] },
-        { "id": "reading-7", "text": "Read one page slowly", "tags": ["easy", "reflective", "no_spend"] },
-        { "id": "reading-8", "text": "Visit a library or bookstore (online counts)", "tags": ["action"] },
-        { "id": "reading-9", "text": "Reflect on why this reading found you", "tags": ["reflective", "no_spend"] }
+        { "id": "reading-1", "text": "Read a long-form essay on a topic you usually ignore", "tags": ["easy", "no_spend"] },
+        { "id": "reading-2", "text": "Listen to 15 minutes of a narrative podcast or audiobook", "tags": ["easy", "no_spend"] },
+        { "id": "reading-3", "text": "Read the first chapter of the oldest book on your shelf", "tags": ["easy", "no_spend"] },
+        { "id": "reading-4", "text": "Find a poem and read it out loud to yourself", "tags": ["easy", "reflective"] },
+        { "id": "reading-5", "text": "Read a physical newspaper or magazine", "tags": ["action"] },
+        { "id": "reading-6", "text": "Spend 20 minutes reading in a public place (park or cafe)", "tags": ["action", "no_spend"] },
+        { "id": "reading-7", "text": "Swap a book recommendation with an acquaintance", "tags": ["connection"] },
+        { "id": "reading-8", "text": "Read a graphic novel or a book with heavy illustrations", "tags": ["easy"] },
+        { "id": "reading-9", "text": "Save one sentence that changed how you saw your day", "tags": ["reflective", "no_spend"] }
       ]
     },
-
     {
       "id": "exploration",
       "name": "Exploration",
@@ -45,18 +43,17 @@
       "description": "See familiar places differently.",
       "color": "sky",
       "tasks": [
-        { "id": "explore-1", "text": "Visit a place within 5 km you’ve never been to", "tags": ["action", "no_spend"] },
-        { "id": "explore-2", "text": "Walk a route you don’t usually take", "tags": ["easy", "action", "no_spend"] },
-        { "id": "explore-3", "text": "Sit somewhere public and observe for ten minutes", "tags": ["easy", "reflective", "no_spend"] },
-        { "id": "explore-4", "text": "Take three photos of ordinary things", "tags": ["easy", "action"] },
-        { "id": "explore-5", "text": "Visit a nearby park or open space", "tags": ["easy", "action", "no_spend"] },
-        { "id": "explore-6", "text": "Walk without headphones once", "tags": ["easy", "no_spend"] },
-        { "id": "explore-7", "text": "Notice one small detail you usually miss", "tags": ["easy", "reflective", "no_spend"] },
-        { "id": "explore-8", "text": "Explore a place you pass daily", "tags": ["easy", "no_spend"] },
-        { "id": "explore-9", "text": "Write one thing you noticed today", "tags": ["reflective", "no_spend"] }
+        { "id": "explore-1", "text": "Navigate to a destination without using GPS", "tags": ["action", "no_spend"] },
+        { "id": "explore-2", "text": "Take the longest route home on purpose", "tags": ["easy", "action", "no_spend"] },
+        { "id": "explore-3", "text": "Visit a local business you've walked past a hundred times", "tags": ["action"] },
+        { "id": "explore-4", "text": "Look 'up' for a whole walk—notice architecture and the sky", "tags": ["easy", "reflective"] },
+        { "id": "explore-5", "text": "Sit on a bench for 15 minutes and sketch what you see", "tags": ["easy", "action", "no_spend"] },
+        { "id": "explore-6", "text": "Explore a local cemetery or historical landmark", "tags": ["action", "no_spend"] },
+        { "id": "explore-7", "text": "Try a different mode of transport (bus, bike, walking)", "tags": ["action"] },
+        { "id": "explore-8", "text": "Find a 'hidden gem' view in your city for the sunset", "tags": ["easy", "no_spend"] },
+        { "id": "explore-9", "text": "Note one thing you discovered that was 'hiding in plain sight'", "tags": ["reflective", "no_spend"] }
       ]
     },
-
     {
       "id": "creativity",
       "name": "Creativity",
@@ -64,37 +61,107 @@
       "description": "Make without judgment.",
       "color": "violet",
       "tasks": [
-        { "id": "create-1", "text": "Make something badly on purpose", "tags": ["easy", "action", "no_spend"] },
-        { "id": "create-2", "text": "Doodle for ten minutes", "tags": ["easy", "action", "no_spend"] },
-        { "id": "create-3", "text": "Write freely for five minutes", "tags": ["easy", "reflective", "no_spend"] },
-        { "id": "create-4", "text": "Create using only what you already have", "tags": ["easy", "no_spend"] },
-        { "id": "create-5", "text": "Finish a small idea instead of starting many", "tags": ["action"] },
-        { "id": "create-6", "text": "Create something useless but fun", "tags": ["easy", "action", "no_spend"] },
-        { "id": "create-7", "text": "Save one idea for later", "tags": ["easy", "reflective", "no_spend"] },
-        { "id": "create-8", "text": "Create without sharing it", "tags": ["easy", "no_spend"] },
-        { "id": "create-9", "text": "Reflect on how creating felt", "tags": ["reflective", "no_spend"] }
+        { "id": "create-1", "text": "Follow a drawing tutorial using only a pen and a napkin", "tags": ["easy", "action"] },
+        { "id": "create-2", "text": "Make a 'Found Art' collage from junk mail", "tags": ["action", "no_spend"] },
+        { "id": "create-3", "text": "Write a 6-word story about your life", "tags": ["easy", "reflective"] },
+        { "id": "create-4", "text": "Build something out of household recycling", "tags": ["action", "no_spend"] },
+        { "id": "create-5", "text": "Customize or repair an old piece of clothing", "tags": ["action", "no_spend"] },
+        { "id": "create-6", "text": "Create a 30-second 'soundscape' recording of your room", "tags": ["easy", "action"] },
+        { "id": "create-7", "text": "Try a craft you haven't done since childhood", "tags": ["easy", "action"] },
+        { "id": "create-8", "text": "Rearrange the art or photos on your walls", "tags": ["action", "no_spend"] },
+        { "id": "create-9", "text": "Keep your creation a secret—don't show anyone today", "tags": ["reflective", "no_spend"] }
       ]
     },
-
     {
-      "id": "self",
-      "name": "Self",
-      "icon": "🌱",
-      "description": "Slow down and check in.",
-      "color": "emerald",
+      "id": "senses",
+      "name": "The Senses",
+      "icon": "👁️",
+      "description": "Experience the world in high-definition.",
+      "color": "rose",
       "tasks": [
-        { "id": "self-1", "text": "Spend ten minutes alone without your phone", "tags": ["easy", "reflective", "no_spend"] },
-        { "id": "self-2", "text": "Write one thing that drained you", "tags": ["easy", "reflective", "no_spend"] },
-        { "id": "self-3", "text": "Write one thing that gave you energy", "tags": ["easy", "reflective", "no_spend"] },
-        { "id": "self-4", "text": "Do one task slowly on purpose", "tags": ["easy", "no_spend"] },
-        { "id": "self-5", "text": "Say no once without explaining", "tags": ["action", "no_spend"] },
-        { "id": "self-6", "text": "Sit quietly for five minutes", "tags": ["easy", "reflective", "no_spend"] },
-        { "id": "self-7", "text": "Write one kind sentence to yourself", "tags": ["reflective", "no_spend"] },
-        { "id": "self-8", "text": "Forgive yourself for something small", "tags": ["reflective", "no_spend"] },
-        { "id": "self-9", "text": "Reflect on what you need right now", "tags": ["reflective", "no_spend"] }
+        { "id": "sense-1", "text": "Walk barefoot on a natural surface (grass, sand, or soil)", "tags": ["action", "easy"] },
+        { "id": "sense-2", "text": "Listen to music in a language you don't speak", "tags": ["easy", "no_spend"] },
+        { "id": "sense-3", "text": "Identify three distinct 'scents' in your neighborhood", "tags": ["action", "no_spend"] },
+        { "id": "sense-4", "text": "Eat a piece of fruit with your eyes closed", "tags": ["easy", "reflective"] },
+        { "id": "sense-5", "text": "Describe a color to someone without naming it", "tags": ["reflective", "connection"] },
+        { "id": "sense-6", "text": "Spend 5 minutes in total darkness and listen", "tags": ["easy", "no_spend"] },
+        { "id": "sense-7", "text": "Feel the texture of five different objects with eyes shut", "tags": ["easy", "reflective"] },
+        { "id": "sense-8", "text": "End your shower with 30 seconds of cold water", "tags": ["action"] },
+        { "id": "sense-9", "text": "Note which sense helped you feel most 'present' today", "tags": ["reflective", "no_spend"] }
       ]
     },
-
+    {
+      "id": "mystery",
+      "name": "Mystery",
+      "icon": "🎲",
+      "description": "Let randomness guide your day.",
+      "color": "fuchsia",
+      "tasks": [
+        { "id": "mystery-1", "text": "Flip a coin to decide a small choice (turn left or right)", "tags": ["action", "easy"] },
+        { "id": "mystery-2", "text": "Order a 'Surprise Me' drink at a cafe", "tags": ["action"] },
+        { "id": "mystery-3", "text": "Pick a book based solely on the color of the spine", "tags": ["action", "no_spend"] },
+        { "id": "mystery-4", "text": "Walk for 10 minutes, turning only when you see a specific color", "tags": ["action", "no_spend"] },
+        { "id": "mystery-5", "text": "Listen to a genre of music you've never heard of before", "tags": ["easy", "no_spend"] },
+        { "id": "mystery-6", "text": "Leave a kind, anonymous note in a public place", "tags": ["action", "no_spend"] },
+        { "id": "mystery-7", "text": "Ask a stranger for a single book or song recommendation", "tags": ["connection", "action"] },
+        { "id": "mystery-8", "text": "Start a conversation with 'Tell me something I don't know'", "tags": ["connection", "easy"] },
+        { "id": "mystery-9", "text": "Reflect on a moment where a random choice led to a win", "tags": ["reflective", "no_spend"] }
+      ]
+    },
+    {
+      "id": "analog",
+      "name": "Analog",
+      "icon": "📝",
+      "description": "Interact with the physical world.",
+      "color": "amber",
+      "tasks": [
+        { "id": "analog-1", "text": "Write a grocery list by hand instead of using your phone", "tags": ["easy", "no_spend"] },
+        { "id": "analog-2", "text": "Draw a map of your neighborhood from memory", "tags": ["reflective", "action"] },
+        { "id": "analog-3", "text": "Tell the time using only the sun for one afternoon", "tags": ["action", "no_spend"] },
+        { "id": "analog-4", "text": "Read a physical copy of a book or magazine", "tags": ["easy", "no_spend"] },
+        { "id": "analog-5", "text": "Print out or develop one photo and display it", "tags": ["action"] },
+        { "id": "analog-6", "text": "Use a physical alarm clock instead of your phone", "tags": ["action", "no_spend"] },
+        { "id": "analog-7", "text": "Build something using only paper and tape", "tags": ["action", "easy"] },
+        { "id": "analog-8", "text": "Pay for something using only physical cash", "tags": ["action"] },
+        { "id": "analog-9", "text": "Note one thing that felt slower (in a good way) without tech", "tags": ["reflective", "no_spend"] }
+      ]
+    },
+    {
+      "id": "night",
+      "name": "The Night",
+      "icon": "🌙",
+      "description": "Discover the world after dark.",
+      "color": "indigo",
+      "tasks": [
+        { "id": "night-1", "text": "Go for a 10-minute walk after the sun has set", "tags": ["action", "no_spend"] },
+        { "id": "night-2", "text": "Identify three constellations or the phase of the moon", "tags": ["easy", "no_spend"] },
+        { "id": "night-3", "text": "Spend 15 minutes by candlelight with all lights off", "tags": ["easy", "reflective"] },
+        { "id": "night-4", "text": "Listen to night sounds from an open window", "tags": ["easy", "no_spend"] },
+        { "id": "night-5", "text": "Watch a movie that takes place entirely in one night", "tags": ["easy"] },
+        { "id": "night-6", "text": "Drive or ride through your city when the streets are empty", "tags": ["action"] },
+        { "id": "night-7", "text": "Write down your dreams immediately upon waking", "tags": ["reflective", "no_spend"] },
+        { "id": "night-8", "text": "Try a snack you've never had specifically at night", "tags": ["action"] },
+        { "id": "night-9", "text": "Note how the world feels 'different' without the sun", "tags": ["reflective", "no_spend"] }
+      ]
+    },
+    {
+      "id": "utility",
+      "name": "Utility",
+      "icon": "🔧",
+      "description": "Understand how your world works.",
+      "color": "slate",
+      "tasks": [
+        { "id": "util-1", "text": "Learn how to tie a new knot (e.g., Bowline)", "tags": ["action", "no_spend"] },
+        { "id": "util-2", "text": "Find the main water shut-off and breaker box in your home", "tags": ["action", "no_spend"] },
+        { "id": "util-3", "text": "Sew a button back on or fix a small tear", "tags": ["action", "no_spend"] },
+        { "id": "util-4", "text": "Watch a video on how a common object is manufactured", "tags": ["easy", "no_spend"] },
+        { "id": "util-5", "text": "Clean your keys and other high-touch metal items", "tags": ["easy", "action"] },
+        { "id": "util-6", "text": "Learn how to sharpen a knife or tool properly", "tags": ["action", "easy"] },
+        { "id": "util-7", "text": "Learn the 'recovery position' for first aid", "tags": ["action", "no_spend"] },
+        { "id": "util-8", "text": "Look inside a machine or under a car hood just to observe", "tags": ["easy", "reflective"] },
+        { "id": "util-9", "text": "Note which tool in your house you are most grateful for", "tags": ["reflective", "no_spend"] }
+      ]
+    },
     {
       "id": "movement",
       "name": "Movement",
@@ -102,18 +169,17 @@
       "description": "Move gently, without goals.",
       "color": "green",
       "tasks": [
-        { "id": "move-1", "text": "Take a 10–15 minute walk", "tags": ["easy", "action", "no_spend"] },
-        { "id": "move-2", "text": "Stretch for five minutes", "tags": ["easy", "action", "no_spend"] },
-        { "id": "move-3", "text": "Move while listening to music", "tags": ["easy", "no_spend"] },
-        { "id": "move-4", "text": "Try a new way of moving", "tags": ["action"] },
-        { "id": "move-5", "text": "Move without tracking or counting", "tags": ["easy", "no_spend"] },
-        { "id": "move-6", "text": "Walk without headphones", "tags": ["easy", "no_spend"] },
-        { "id": "move-7", "text": "Notice how your body feels after moving", "tags": ["reflective", "no_spend"] },
-        { "id": "move-8", "text": "Move outdoors if possible", "tags": ["easy", "action", "no_spend"] },
-        { "id": "move-9", "text": "Rest when your body asks", "tags": ["reflective", "no_spend"] }
+        { "id": "move-1", "text": "Follow a 5-minute 'desk yoga' routine", "tags": ["easy", "no_spend"] },
+        { "id": "move-2", "text": "Dance to three songs in your living room", "tags": ["easy", "action"] },
+        { "id": "move-3", "text": "Try an 'animal flow' movement (e.g., the bear crawl)", "tags": ["easy", "action"] },
+        { "id": "move-4", "text": "Go for a 'Sound Walk'—focus only on your footsteps", "tags": ["easy", "reflective"] },
+        { "id": "move-5", "text": "Balance on one leg while performing a daily task", "tags": ["easy", "no_spend"] },
+        { "id": "move-6", "text": "Stretch specifically for your hands and wrists", "tags": ["easy", "no_spend"] },
+        { "id": "move-7", "text": "Walk up and down a flight of stairs three times", "tags": ["action", "no_spend"] },
+        { "id": "move-8", "text": "Try a beginner video for Tai Chi or Pilates", "tags": ["action", "no_spend"] },
+        { "id": "move-9", "text": "Notice how your mood shifted after moving", "tags": ["reflective", "no_spend"] }
       ]
     },
-
     {
       "id": "digital",
       "name": "Digital Detox",
@@ -121,18 +187,17 @@
       "description": "Be a little less online.",
       "color": "slate",
       "tasks": [
-        { "id": "digital-1", "text": "Spend one hour offline", "tags": ["action", "no_spend"] },
-        { "id": "digital-2", "text": "No phone during one meal", "tags": ["easy", "no_spend"] },
-        { "id": "digital-3", "text": "Remove one unused app", "tags": ["easy", "no_spend"] },
-        { "id": "digital-4", "text": "Turn off one notification", "tags": ["easy", "no_spend"] },
-        { "id": "digital-5", "text": "Sit without background noise", "tags": ["easy", "reflective", "no_spend"] },
-        { "id": "digital-6", "text": "Use your phone intentionally once", "tags": ["reflective", "no_spend"] },
-        { "id": "digital-7", "text": "Read instead of scrolling once", "tags": ["easy", "no_spend"] },
-        { "id": "digital-8", "text": "Go outside without your phone once", "tags": ["action", "no_spend"] },
-        { "id": "digital-9", "text": "Reflect on what changed", "tags": ["reflective", "no_spend"] }
+        { "id": "digital-1", "text": "Unsubscribe from 5 marketing emails", "tags": ["easy", "no_spend"] },
+        { "id": "digital-2", "text": "Keep your phone in a different room while you sleep", "tags": ["action", "no_spend"] },
+        { "id": "digital-3", "text": "Change your phone screen to Grayscale for 24 hours", "tags": ["action", "no_spend"] },
+        { "id": "digital-4", "text": "Wait for 5 minutes without pulling out your phone", "tags": ["easy", "reflective"] },
+        { "id": "digital-5", "text": "Delete one app that makes you feel anxious", "tags": ["action", "no_spend"] },
+        { "id": "digital-6", "text": "Disable all non-human notifications for a day", "tags": ["action", "no_spend"] },
+        { "id": "digital-7", "text": "Eat a meal while looking out a window instead of a screen", "tags": ["easy", "no_spend"] },
+        { "id": "digital-8", "text": "Look at something beautiful without taking a photo", "tags": ["easy", "reflective"] },
+        { "id": "digital-9", "text": "Note how many times you reached for your phone reflexively", "tags": ["reflective", "no_spend"] }
       ]
     },
-
     {
       "id": "home",
       "name": "Home",
@@ -140,18 +205,17 @@
       "description": "Reset your space softly.",
       "color": "stone",
       "tasks": [
-        { "id": "home-1", "text": "Declutter five items", "tags": ["easy", "action", "no_spend"] },
-        { "id": "home-2", "text": "Clean one small area", "tags": ["easy", "action", "no_spend"] },
-        { "id": "home-3", "text": "Rearrange something slightly", "tags": ["action", "no_spend"] },
-        { "id": "home-4", "text": "Add one cozy detail", "tags": ["easy"] },
-        { "id": "home-5", "text": "Open windows and refresh the space", "tags": ["easy", "no_spend"] },
-        { "id": "home-6", "text": "Organize one drawer", "tags": ["action", "no_spend"] },
-        { "id": "home-7", "text": "Tidy for ten minutes only", "tags": ["easy", "no_spend"] },
-        { "id": "home-8", "text": "Notice how your space makes you feel", "tags": ["reflective", "no_spend"] },
-        { "id": "home-9", "text": "Reflect on what home means to you", "tags": ["reflective", "no_spend"] }
+        { "id": "home-1", "text": "Clean your junk drawer or one small storage box", "tags": ["action", "no_spend"] },
+        { "id": "home-2", "text": "Swap the location of two lamps or pieces of decor", "tags": ["easy", "no_spend"] },
+        { "id": "home-3", "text": "Delete 50 old photos or screenshots from your phone", "tags": ["action", "no_spend"] },
+        { "id": "home-4", "text": "Use a scent (candle or oil) that makes you feel calm", "tags": ["easy"] },
+        { "id": "home-5", "text": "Wipe down your phone, keyboard, and remote", "tags": ["easy", "action"] },
+        { "id": "home-6", "text": "Organize your fridge so oldest items are at the front", "tags": ["action", "no_spend"] },
+        { "id": "home-7", "text": "Create a dedicated 'landing zone' for keys and wallet", "tags": ["easy", "action"] },
+        { "id": "home-8", "text": "Spend 10 minutes sitting in the best light in your home", "tags": ["easy", "no_spend"] },
+        { "id": "home-9", "text": "Identify one object in your home that has a story", "tags": ["reflective", "no_spend"] }
       ]
     },
-
     {
       "id": "learning",
       "name": "Learning",
@@ -159,18 +223,17 @@
       "description": "Learn one small thing.",
       "color": "blue",
       "tasks": [
-        { "id": "learn-1", "text": "Learn a random fact", "tags": ["easy", "no_spend"] },
-        { "id": "learn-2", "text": "Learn a new word", "tags": ["easy", "no_spend"] },
-        { "id": "learn-3", "text": "Watch a short educational video", "tags": ["easy"] },
-        { "id": "learn-4", "text": "Read about a topic you know nothing about", "tags": ["easy", "no_spend"] },
-        { "id": "learn-5", "text": "Ask a curious question", "tags": ["easy", "no_spend"] },
-        { "id": "learn-6", "text": "Learn something unrelated to work or study", "tags": ["easy", "no_spend"] },
-        { "id": "learn-7", "text": "Take notes on one thing you learned", "tags": ["reflective", "no_spend"] },
-        { "id": "learn-8", "text": "Learn how something works", "tags": ["easy", "no_spend"] },
-        { "id": "learn-9", "text": "Reflect on what surprised you", "tags": ["reflective", "no_spend"] }
+        { "id": "learn-1", "text": "Learn how to say 'Thank You' in 5 languages", "tags": ["easy", "no_spend"] },
+        { "id": "learn-2", "text": "Find out the history of the street you live on", "tags": ["action", "no_spend"] },
+        { "id": "learn-3", "text": "Watch a video on a craft you will never actually do", "tags": ["easy", "no_spend"] },
+        { "id": "learn-4", "text": "Learn the difference between two similar things (e.g. Crow vs Raven)", "tags": ["action", "no_spend"] },
+        { "id": "learn-5", "text": "Read the Wikipedia page for a random animal", "tags": ["easy", "no_spend"] },
+        { "id": "learn-6", "text": "Identify one constellation in the sky tonight", "tags": ["easy", "reflective"] },
+        { "id": "learn-7", "text": "Learn how to do one simple card trick", "tags": ["action", "no_spend"] },
+        { "id": "learn-8", "text": "Look up the meaning behind your own name", "tags": ["easy", "no_spend"] },
+        { "id": "learn-9", "text": "Teach someone else the coolest thing you learned this month", "tags": ["reflective", "connection"] }
       ]
     },
-
     {
       "id": "connection",
       "name": "Connection",
@@ -178,18 +241,17 @@
       "description": "Connect intentionally.",
       "color": "rose",
       "tasks": [
-        { "id": "connect-1", "text": "Message someone you haven’t talked to in a while", "tags": ["action"] },
-        { "id": "connect-2", "text": "Thank someone sincerely", "tags": ["action", "no_spend"] },
-        { "id": "connect-3", "text": "Have a conversation without multitasking", "tags": ["easy", "no_spend"] },
-        { "id": "connect-4", "text": "Listen without interrupting", "tags": ["reflective", "no_spend"] },
-        { "id": "connect-5", "text": "Reach out first once", "tags": ["action"] },
-        { "id": "connect-6", "text": "Share something honestly", "tags": ["action", "no_spend"] },
-        { "id": "connect-7", "text": "Ask someone how they really are", "tags": ["action", "no_spend"] },
-        { "id": "connect-8", "text": "Write a message you don’t send", "tags": ["reflective", "no_spend"] },
-        { "id": "connect-9", "text": "Reflect on what connection means to you", "tags": ["reflective", "no_spend"] }
+        { "id": "connect-1", "text": "Mail a physical postcard or letter to a friend", "tags": ["action"] },
+        { "id": "connect-2", "text": "Give a specific, non-physical compliment to a colleague", "tags": ["easy", "no_spend"] },
+        { "id": "connect-3", "text": "Ask an elder about a memory from when they were your age", "tags": ["action", "connection"] },
+        { "id": "connect-4", "text": "Leave a positive review for a small local business", "tags": ["easy", "no_spend"] },
+        { "id": "connect-5", "text": "Call someone for 5 minutes instead of texting them", "tags": ["action", "no_spend"] },
+        { "id": "connect-6", "text": "Wave or nod to a neighbor you don't know yet", "tags": ["easy", "no_spend"] },
+        { "id": "connect-7", "text": "Share a 'small win' with someone you trust", "tags": ["easy", "no_spend"] },
+        { "id": "connect-8", "text": "Find a local community board and read the postings", "tags": ["action", "no_spend"] },
+        { "id": "connect-9", "text": "Note how you felt after a positive social interaction", "tags": ["reflective", "no_spend"] }
       ]
     },
-
     {
       "id": "money",
       "name": "Money",
@@ -197,18 +259,17 @@
       "description": "Spend mindfully.",
       "color": "amber",
       "tasks": [
-        { "id": "money-1", "text": "Avoid non-essential spending for one day", "tags": ["action", "no_spend"] },
-        { "id": "money-2", "text": "Track one day of spending", "tags": ["reflective", "no_spend"] },
-        { "id": "money-3", "text": "Create a wishlist instead of impulse buying", "tags": ["easy", "no_spend"] },
-        { "id": "money-4", "text": "Review one subscription", "tags": ["action", "no_spend"] },
-        { "id": "money-5", "text": "Notice emotional spending triggers", "tags": ["reflective", "no_spend"] },
-        { "id": "money-6", "text": "Pause before purchasing something", "tags": ["reflective", "no_spend"] },
-        { "id": "money-7", "text": "Reuse something instead of buying new", "tags": ["action", "no_spend"] },
-        { "id": "money-8", "text": "Learn one money concept", "tags": ["easy", "no_spend"] },
-        { "id": "money-9", "text": "Reflect on your spending habits", "tags": ["reflective", "no_spend"] }
+        { "id": "money-1", "text": "Check your bank account without judgment", "tags": ["easy", "reflective"] },
+        { "id": "money-2", "text": "Calculate the 'cost-per-use' of your favorite item", "tags": ["reflective", "no_spend"] },
+        { "id": "money-3", "text": "Have a 'Zero-Spend' weekend afternoon", "tags": ["action", "no_spend"] },
+        { "id": "money-4", "text": "Cancel one subscription you haven't used lately", "tags": ["action", "no_spend"] },
+        { "id": "money-5", "text": "Find a free version of something you usually pay for", "tags": ["action", "no_spend"] },
+        { "id": "money-6", "text": "Put one 'impulse buy' back on the shelf", "tags": ["easy", "action"] },
+        { "id": "money-7", "text": "Donate one item you no longer use", "tags": ["action", "no_spend"] },
+        { "id": "money-8", "text": "List 3 things you own that are more valuable than they cost", "tags": ["reflective", "no_spend"] },
+        { "id": "money-9", "text": "Note your biggest emotional 'spending trigger' this month", "tags": ["reflective", "no_spend"] }
       ]
     },
-
     {
       "id": "joy",
       "name": "Joy",
@@ -216,15 +277,15 @@
       "description": "Do what feels light.",
       "color": "yellow",
       "tasks": [
-        { "id": "joy-1", "text": "Do something just for fun", "tags": ["easy", "no_spend"] },
-        { "id": "joy-2", "text": "Revisit a childhood favorite", "tags": ["easy"] },
-        { "id": "joy-3", "text": "Listen to music you love", "tags": ["easy", "no_spend"] },
-        { "id": "joy-4", "text": "Enjoy something slowly", "tags": ["easy", "no_spend"] },
-        { "id": "joy-5", "text": "Spend time doing nothing", "tags": ["easy", "no_spend"] },
-        { "id": "joy-6", "text": "Let yourself enjoy without guilt", "tags": ["reflective", "no_spend"] },
-        { "id": "joy-7", "text": "Capture one joyful moment", "tags": ["reflective", "no_spend"] },
-        { "id": "joy-8", "text": "Follow curiosity once", "tags": ["easy", "no_spend"] },
-        { "id": "joy-9", "text": "Reflect on what brought you joy", "tags": ["reflective", "no_spend"] }
+        { "id": "joy-1", "text": "Eat a piece of chocolate or fruit with eyes closed", "tags": ["easy", "no_spend"] },
+        { "id": "joy-2", "text": "Watch a video that always makes you laugh", "tags": ["easy", "no_spend"] },
+        { "id": "joy-3", "text": "Go for a walk and look for things that look like faces", "tags": ["easy", "no_spend"] },
+        { "id": "joy-4", "text": "Wear your 'best' clothes on a completely normal day", "tags": ["easy", "action"] },
+        { "id": "joy-5", "text": "Savor a warm drink for 10 minutes with zero distractions", "tags": ["easy", "no_spend"] },
+        { "id": "joy-6", "text": "Sing out loud, even if you are off-key", "tags": ["easy", "no_spend"] },
+        { "id": "joy-7", "text": "Do one thing 'just because you want to' today", "tags": ["action", "no_spend"] },
+        { "id": "joy-8", "text": "Watch a sunrise or sunset from start to finish", "tags": ["action", "no_spend"] },
+        { "id": "joy-9", "text": "Write down the funniest thing that happened this week", "tags": ["reflective", "no_spend"] }
       ]
     }
   ]
